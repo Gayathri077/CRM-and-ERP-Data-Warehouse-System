@@ -1,4 +1,4 @@
-# 📊 CRM & ERP Data Warehouse System
+# CRM & ERP Data Warehouse System
 
 A complete **data warehousing solution** that integrates data from CRM and ERP systems, processes it through ETL workflows, and prepares it for analytics and reporting. This project demonstrates full lifecycle data engineering skills: extraction, transformation, loading, data modeling, and analytics-ready outputs.
 
