@@ -30,7 +30,7 @@ CRM-and-ERP-Data-Warehouse-System/
 Key Concepts Implemented
 ```
 
-ETL (Extract-Transform-Load)
+# ETL (Extract-Transform-Load)
 
 Extract raw data from CRM and ERP sources.
 
@@ -40,7 +40,7 @@ Transform data into business-ready structures.
 
 Load into organized schemas optimized for analytics.
 
-##Multilayer Architecture
+## Multilayer Architecture
 
 Bronze Layer: Raw source data preserved.
 
@@ -48,19 +48,19 @@ Silver Layer: Cleaned and integrated intermediate data.
 
 Gold Layer: Analytics-ready star schema for reporting.
 
-##Data Modeling
+## Data Modeling
 
 Creation of fact and dimension tables to support BI queries.
 
 Star schema design for easier reporting and performance.
 
-##Tech Stack
+## Tech Stack
 
 Python: Data cleaning and preprocessing
 
 SQL / T-SQL: ETL scripts, table creation, transformations
 
-##How to Use
+## How to Use
 
 Clone the repository
 
@@ -79,7 +79,7 @@ Connect to Power BI or other analytics tools for reporting
 
 Ensure SQL Server / PostgreSQL (or your database) is set up before running scripts.
 
-##Skills Demonstrated
+## Skills Demonstrated
 
 ✔ End-to-end ETL pipeline development
 ✔ Data cleaning, validation & transformation
@@ -88,7 +88,7 @@ Ensure SQL Server / PostgreSQL (or your database) is set up before running scrip
 ✔ Analytics-ready dataset preparation
 ✔ Collaboration & documentation best practices
 
-##Connect
+## Connect
 
 Have feedback, questions, or want to collaborate?
 
