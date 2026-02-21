@@ -28,6 +28,8 @@ CRM-and-ERP-Data-Warehouse-System/
 ├── tests/                            # Data quality & validation tests
 ├── README.md                         # Project overview
 Key Concepts Implemented
+```
+
 ETL (Extract-Transform-Load)
 
 Extract raw data from CRM and ERP sources.
